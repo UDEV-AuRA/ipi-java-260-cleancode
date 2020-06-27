@@ -10,5 +10,6 @@ Continuer le GameBowling
 Rappel des règles de calcul du score au bowling
  https://fr.wikihow.com/calculer-les-scores-au-bowling
  
+http://www.drims-academy.fr/tdd-bowling-game-kata/
  
 Bon courage !
